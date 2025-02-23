@@ -16,7 +16,6 @@ body {
 .movie-poster img {
   height: auto !important;
   z-index: -2;
-  max-height: 100vh;
   -o-object-fit: cover;
      object-fit: cover;
 }
